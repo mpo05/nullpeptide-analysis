@@ -35,11 +35,6 @@ You can install these packages via pip:
 pip install numpy pandas ahocorasick tqdm matplotlib seaborn scipy networkx
 ```
 
-## Key Functions
-
-- **`create_directory(path)`**: Creates a directory if it doesn't already exist.
-- **`copy_human_samples(source_path, destination_path)`**: Copies DMS sample files with '_HUMAN_' in their filename to a new directory for further analysis.
-
 ## How to Use
 
 1. Clone the repository:
@@ -51,7 +46,7 @@ pip install numpy pandas ahocorasick tqdm matplotlib seaborn scipy networkx
    ```bash
    jupyter notebook nullpeptides_DMS_samples.ipynb
    ```
-4. Run the cells in the notebook to reproduce the analysis. The notebook covers data loading, filtering, and various analyses related to DMS samples.
+4. Run the cells in the notebook to reproduce the analysis.
 
 ## Output
 
