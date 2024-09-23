@@ -1,7 +1,7 @@
 
 # Null Peptides DMS Samples Analysis
 
-This repository contains a Jupyter Notebook that focuses on analyzing DMS (Deep Mutational Scanning) samples, particularly related to null peptides. The notebook processes various datasets and performs multiple analyses, including data manipulation, visualization, and network analysis.
+This repository contains a Jupyter Notebook that focuses on analyzing DMS (Deep Mutational Scanning) samples, particularly related to null peptides. The notebook processes various datasets and performs multiple analyses, including data manipulation, identification of enriched nullpeptides, visualization, network analysis and identification of nullpeptide families.
 
 ## Project Overview
 
