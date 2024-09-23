@@ -10,8 +10,10 @@ The purpose of this notebook is to handle and analyze DMS samples with a focus o
 - Loading DMS substitution and indel data.
 - Filtering human DMS samples.
 - Creating directories and organizing datasets.
+- Performimg data manipulation and DMS score scaling
+- Using Fisher's exact test to detect enriched nullpeptides
 - Visualizing data trends using matplotlib and seaborn.
-- Conducting network analysis using NetworkX.
+- Conducting network analysis using NetworkX, to identify nullpeptide families.
 
 ## Files Included
 
