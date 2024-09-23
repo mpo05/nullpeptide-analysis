@@ -1,7 +1,7 @@
 
-# Null Peptides DMS Samples Analysis
+# Pathogenic nullpeptide Analysis
 
-This repository contains a Jupyter Notebook that focuses on analyzing DMS (Deep Mutational Scanning) samples, particularly related to null peptides. The notebook processes various datasets and performs multiple analyses, including data manipulation, identification of enriched nullpeptides, visualization, network analysis and identification of nullpeptide families.
+This repository contains a Jupyter Notebook that focuses on analyzing DMS (Deep Mutational Scanning) samples. The main hypothesis was that peptides that occur after mutations (nullpeptides) are associated with pathogenic states. The notebook processes various datasets and performs multiple analyses, including data manipulation, identification of enriched nullpeptides, visualization, network analysis and identification of nullpeptide families.
 
 ## Project Overview
 
